@@ -1,3 +1,3 @@
 # Weather
-This is a simple weather app.
-WEATHER TYM
+
+This is a weather app.
